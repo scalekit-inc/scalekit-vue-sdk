@@ -1,5 +1,5 @@
 {
-  "name": "@scalekit/vue-sdk",
+  "name": "@scalekit-sdk/vue",
   "version": "0.1.0",
   "description": "Vue SDK for Scalekit OIDC authentication",
   "type": "module",
