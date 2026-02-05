@@ -45,15 +45,16 @@
     }
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.3",
+    "@vitejs/plugin-vue": "^6.0.0",
     "@vue/test-utils": "^2.4.4",
-    "happy-dom": "^13.3.8",
+    "happy-dom": "^20.0.0",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3",
-    "vitest": "^1.2.2",
+    "vite": "^6.2.0",
+    "vitest": "^4.0.0",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5",
-    "vue-tsc": "^1.8.27"
+    "vue-tsc": "^3.0.0"
   },
   "keywords": [
     "scalekit",
